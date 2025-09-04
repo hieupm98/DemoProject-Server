@@ -21,3 +21,9 @@ packages/
 # Others
 *.log
 *.DS_Store
+
+.vs/
+*.suo
+*.v2
+*.vsidx
+*.json
